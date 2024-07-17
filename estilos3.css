@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    text-align: center;
+    padding: 20;
+}
+
+p{
+    font-size: large;
+    padding: 0.5%;
+}
+
+.contenedor-imagenes {
+    overflow: hidden; 
+    text-align: center;
+}
+
+.imagen {
+    float: left;
+    margin: 9px;
+}
+
+.contenedor2{
+    background: cyan;
+    width: 98vw;
+    height: 40vh;
+    text-align: center;
+    padding-top: 50px;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
